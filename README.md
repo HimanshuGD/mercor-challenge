@@ -7,12 +7,18 @@ This project implements:
 
 ## Structure
 
-mercor-challenge/
+mercor-challenge/ 
+
 ├── source/
+
 │ ├── ReferralNetwork.go # Graph logic & reach calculations
+
 │ └── simulation.go # Growth simulation & bonus calculation
+
 └── tests/
+
 ├── referral_network_test.go # Unit tests for referral graph
+
 └── simulation_test.go # Unit tests for simulation logic
 
 
